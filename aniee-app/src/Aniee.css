@@ -1,0 +1,19 @@
+.Aniee {
+  margin: 5rem;
+  padding: 5rem;
+  background-color: #CCCCFF;
+  border-radius: 30px;
+  border: 1px solid black;
+}
+
+.name {
+    font-size: 58px;
+    color: white;
+}
+
+.button {
+    font-size: 18px;
+    background-color: pink;
+    padding: 1rem;
+    border-radius: 30px;
+}
